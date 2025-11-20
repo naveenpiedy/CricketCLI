@@ -61,6 +61,6 @@ python main.py
 - `beautifulsoup4`: For parsing HTML.
 - `lxml`: HTML parser.
 - `rich`: For terminal formatting.
-
-  Link to my [blog post](https://www.npiedy.com/cricket-scraper-obsidian-antigravity/)! If you want to read on how I built this tool.
 - `InquirerPy`: For interactive command-line prompts.
+
+Link to my [blog post](https://www.npiedy.com/cricket-scraper-obsidian-antigravity/)! If you want to read on how I built this tool.
